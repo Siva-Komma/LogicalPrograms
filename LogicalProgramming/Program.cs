@@ -11,6 +11,7 @@ namespace LogicalProgramming
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Logical Programming");
+            ReverseNumber.Reverse();
             Console.ReadLine();
         }
     }
