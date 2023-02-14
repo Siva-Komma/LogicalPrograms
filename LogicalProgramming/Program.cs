@@ -13,6 +13,7 @@ namespace LogicalProgramming
             Console.WriteLine("Welcome to Logical Programming");
             ReverseNumber.Reverse();
             PrimeNumber.Prime();
+            FibonacciSeries.Fibonacci();
             Console.ReadLine();
         }
     }
