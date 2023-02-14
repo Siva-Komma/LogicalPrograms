@@ -12,6 +12,7 @@ namespace LogicalProgramming
         {
             Console.WriteLine("Welcome to Logical Programming");
             ReverseNumber.Reverse();
+            PrimeNumber.Prime();
             Console.ReadLine();
         }
     }
