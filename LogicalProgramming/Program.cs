@@ -11,13 +11,14 @@ namespace LogicalProgramming
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Logical Programming");
-         //   ReverseNumber.Reverse();
-          //  PrimeNumber.Prime();
-          //  FibonacciSeries.Fibonacci();
-          //  PerfectNumber.Perfect();
-          //  DayofWeek.CheckingDayofWeek();
-          //  TemperaturConversion.Conversion();
+            ReverseNumber.Reverse();
+            PrimeNumber.Prime();
+            FibonacciSeries.Fibonacci();
+            PerfectNumber.Perfect();
+            DayofWeek.CheckingDayofWeek();
+            TemperaturConversion.Conversion();
             MonthlyPayment.Payment();
+            Sqrt.Squareroot();
             Console.ReadLine();
         }
     }
