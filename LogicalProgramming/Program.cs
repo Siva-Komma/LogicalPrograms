@@ -20,6 +20,7 @@ namespace LogicalProgramming
             MonthlyPayment.Payment();
             Sqrt.Squareroot();
             VendingMachine.Conversion();
+            DigitaltoBinaryConversion.BinaryConversion();
             Console.ReadLine();
         }
     }

@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DayofWeek.cs" />
+    <Compile Include="DigitaltoBinaryConversion.cs" />
     <Compile Include="FibonacciSeries.cs" />
     <Compile Include="MonthlyPayment.cs" />
     <Compile Include="PerfectNumber.cs" />
