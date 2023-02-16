@@ -19,6 +19,7 @@ namespace LogicalProgramming
             TemperaturConversion.Conversion();
             MonthlyPayment.Payment();
             Sqrt.Squareroot();
+            VendingMachine.Conversion();
             Console.ReadLine();
         }
     }

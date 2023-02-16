@@ -53,6 +53,7 @@
     <Compile Include="ReverseNumber.cs" />
     <Compile Include="Sqrt.cs" />
     <Compile Include="TemperaturConversion.cs" />
+    <Compile Include="VendingMachine.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
